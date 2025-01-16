@@ -8,17 +8,35 @@ This is a public repository for my source code of my encryption software that en
 
 The code starts with a signup form that is stored locally in *user.txt*
 
-![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/source/signupform.png)
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/signupform.png)
 
 
 
 After putting in your signup information, it will bring you to the main UI.
 
-![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/source/maindark.png)
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/maindark.png)
 
 
-![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/source/mainlight.png)
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/mainlight.png)
 
 After opening it again, you will be prompted with a login form. It will also bring you to the main UI or reset the login credentials.
 
-![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/source/loginform.png)
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/loginform.png)
+
+After clicking encrypt/decrypt button, it will prompt you to select a file.
+
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/fileopen.png)
+
+Before encryption:
+
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/before.png)
+
+
+After encryption:
+
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/after.png)
+
+
+The log of it:
+
+![alt text](https://github.com/matt-s-0/Python-Encryption-Software/blob/main/images/logs.png)
